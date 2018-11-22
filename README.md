@@ -7,7 +7,7 @@ La actualización se realiza diariamente en las respectivas ramas que representa
 Tener instalado Git y GitHub. Hay muchos tutoriales en Internet que muestran el proceso de instalación en función del sistema operativo que se tenga.
 
 ## Comenzando
-Los comandos utilizados en los scripts correspondientes a cada plataforma son los siguientes: 
+Los comandos utilizados en los scripts correspondientes a cada plataforma son los mostrados a continuación. 
 
 Algunos de ellos incluyen las letras "XXXXXXXXXX", en su lugar se debe poner smartcei, edificacion, minas o itd en función de la plataforma que se trate. Por ejemplo, si usted es el encargado de la plataforma de la E.T.S. de Edificación (ETSEM) deberá incluir en el lugar de "XXXXXXXXXX" "edificacion". Son todos en minúsculas y sin tildes.
 
